@@ -36,7 +36,6 @@ div.main{
 #display{
     width: 100%;
 }
-
 @media screen and (max-width:600px){
     button{
     width: 43px;
@@ -45,4 +44,5 @@ div.main{
     margin: 3px ;
     overflow: hidden;
 }
+
 }
